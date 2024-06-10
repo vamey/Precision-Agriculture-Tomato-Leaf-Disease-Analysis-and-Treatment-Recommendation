@@ -1,1 +1,3 @@
 # Precision-Agriculture-Tomato-Leaf-Disease-Analysis-and-Treatment-Recommendation
+
+"Precision Agriculture: Tomato Leaf Disease Analysis and Treatment Recommendation" leverages advanced image processing and machine learning to detect tomato leaf diseases early and accurately. It provides tailored treatment recommendations, integrating real-time data. Once a disease is identified, the system provides customized treatment recommendations based on the severity and type of infection. This project aims to boost crop yield, reduce chemical use, and promote sustainable farming practices for heal their tomato crops.
